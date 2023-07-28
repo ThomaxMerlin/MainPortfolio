@@ -1,0 +1,19 @@
+*{
+	background: pink;
+}
+html{
+	background: black;
+}
+
+#container{
+position: center;
+align-content: center;
+align-items: center;
+}
+
+#nav{
+	osition: center;
+align-content: center;
+align-items: center;
+
+}
